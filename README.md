@@ -8,9 +8,9 @@ Danny has provided you with a sample of his overall customer data due to privacy
 
 Danny has shared with you 3 key datasets for this case study:
 
-1. sales
-2. menu
-3. members
+1. Sales
+2. Menu
+3. Members
 
 <img src= "images/Diagram.png" width="600">
 
